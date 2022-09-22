@@ -107,7 +107,7 @@ export default function HomePage({ posts, gallery }) {
     setSelectedImage(selectedImage);
   };
   return (
-    <Page title="Франшиза ШАУROOM">
+    <Page title="AФраншиза ШАУROOM">
       <RootStyle>
 
         <TravelAbout />
