@@ -84,7 +84,7 @@ export default function MarketingLandingAbout() {
       <Container>
         <Image
           alt="langding about"
-          src='http://localhost:7777/img/karamzina.jpg'
+          src='https://shauroom-fr-client-ydl1.vercel.app/img/karamzina.jpg'
           ratio="16/9"
           sx={{
             borderRadius: 1.5,
